@@ -11,13 +11,20 @@ You also may not place a laser such that it would shoot outside the grid (this w
 
 ## Run program
 
-The program should execute on the command line as:
+### Python
+
+The python program should execute on the command line as:
 
 ```commandline
 $ python3 lasers.py filename
 ```
 Where filename is the name of the text table containing the grid as one row per line, with
 single integers 0-9, separated by spaces.
+
+### C++
+
+Coming Soon!
+
 
 
 
